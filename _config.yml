@@ -1,0 +1,28 @@
+name: mhotos
+favicon: null
+layout_spectrum: 0.8727289638482034
+typography_spectrum: 0.3858335497789085
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5473275405820459
+  lightness: 0.24075398268178105
+  saturation: 0.9302987970877439
+  rhythmicContrast: 0.3364997685421258
+purpose: []
