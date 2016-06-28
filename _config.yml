@@ -2,6 +2,7 @@ name: mhotos
 favicon: null
 layout_spectrum: 0.8727289638482034
 typography_spectrum: 0.3858335497789085
+title: My Mobile Photos
 cta:
   domain: null
   bucket: null
